@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
-        <apache.tomcat.version>8.5.53</apache.tomcat.version>
+        <apache.tomcat.version>8.5.61</apache.tomcat.version>
     </properties>
 
     <dependencies>
